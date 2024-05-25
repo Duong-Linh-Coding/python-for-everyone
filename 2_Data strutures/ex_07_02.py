@@ -14,6 +14,7 @@ for linex in fhand :
         continue
 #    print(liney)
     fpieceline = float(pieceline)
+    print(fpieceline)
     count = count + 1
     summ = summ + fpieceline
     
